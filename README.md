@@ -1,13 +1,22 @@
 ## Hi I'm Louise!
 
 ### About me
-- Second Year Student at Staffordshire University Studying Games Programming!
-- Fan of Corvids, Pigeons, The N64 and Realtime Rendering.
-- Focusing myself mainly on Graphics Programming and Game Engine Creation with a few small scope game dev projects dotted about.
-- My languages of choice are C/C++, ASM (preferably MIPS asm but thats unlikely😔) and HLSL/GLSL (I have no preference).
+I'm a graphics programmer, tech artist and game dev studying at uni with a primary focus on Computer Graphics.
+I plan to do some embedded systems programming as a hobby.
+Working on a few custom engines, tools and renderers.
+I will get around to organising my public repos with nice README's eventually but I'm very busy with uni work currently.
 
-### Where to reach me:
-- Linkedin: https://www.linkedin.com/in/louise-ramsden-b8b710291/
+### Graphics APIs
+Older API's such as OpenGL 1-current, DX9-DX11, immediate context apis in general I'm confident with.
+Newer graphics API's (eg: vulkan, dx12, metal) I am less confident in but actively learning currently.
+
+### Languages I use
+- C++: primarily
+- C: often
+- C#: too much
+- HLSL/GLSL/CG: not enough
+- Rust: barely notable
+- ASM(6502/x86/Mips): hopefully more soon
 
 ### Personal project naming scheme
-- &lt;bird I like&gt; - &lt;project type&gt;
+- &lt;bird I like(or thing I like)&gt; - &lt;project type&gt;

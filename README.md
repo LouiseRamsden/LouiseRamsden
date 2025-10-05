@@ -8,8 +8,11 @@ I will get around to organising my public repos with nice README's eventually bu
 
 ### Graphics APIs
 #### Modern Low Level Graphics APIs:
-- Vulkan: Still Struggling
+- Vulkan: Still Struggling in all aspects
 - DX12: Comfortable working in
+  - Traditional Pipeline: Comfy
+  - Mesh Shader Pipeline: Working on at this moment
+  - Raytracing Pipeline: Difficult but able
 #### Higher Level Modern APIs:
 - Modern OpenGL: Comfortable
 - DX11: Comfortable

@@ -1,32 +1,24 @@
-## Hi I'm Louise!
+## hi im louise!
 
-### About me
-I'm a graphics programmer, tech artist and game dev studying at uni with a primary focus on Computer Graphics.
-I plan to do some embedded systems programming as a hobby.
-Working on a few custom engines, tools and renderers.
-I will get around to organising my public repos with nice README's eventually but I'm very busy with uni work currently.
+### about me
+im a graphics programmer, technical artist and game dev studying at the university of staffordshire.
 
-### Graphics APIs
-#### Modern Low Level Graphics APIs:
-- Vulkan: Still Struggling in all aspects
-- DX12: Comfortable working in
-  - Traditional Pipeline: Comfy
-  - Mesh Shader Pipeline: Working on at this moment
-  - Raytracing Pipeline: Difficult but able
-#### Higher Level Modern APIs:
-- Modern OpenGL: Comfortable
-- DX11: Comfortable
-#### Older APIs
-- DX9: Only used once
-- OpenGL 1.x: sadly too knowledgable in just I refuse to use GLUT, but who uses that anyway...
-
-### Languages I use
-- C++: primarily
-- C: often
-- C#: too much
-- HLSL/GLSL/CG: not enough
-- Rust: barely notable
-- ASM(6502/x86/Mips): hopefully more soon
-
-### Personal project naming scheme
-- &lt;bird I like(or thing I like)&gt; - &lt;project type&gt;
+## technologies (relevant tas of 10th march 2026)
+each of these entries is a language or api i am particularly comfortable in, anything i am not comfortable in but wish to let you know will have additional information specified
+- graphics apis
+  - opengl 3+ 
+  - opengl 1+  
+  - direct-x 11 
+  - direct-x 12 (not super confident but managed to make a working raytracer with dxr)
+  - vulkan (working towards learning, but not confident)
+  - 
+- languages
+  - c 
+  - c++
+  - c# 
+  - glsl
+  - hlsl
+  - slang (using for future personal graphics projects, but the hlsl part i am comfortable with)
+  - lisp (scheme and clojure)
+  - python (basic scripting, nothing fancy)
+  - lua

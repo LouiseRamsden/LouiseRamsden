@@ -1,9 +1,13 @@
-## hi im louise!
+```
+hi im louise!
+--------------
 
-### about me
+about me:
+----------
 im a graphics programmer, technical artist and game dev studying at the university of staffordshire.
 
-## technologies (relevant as of 10th march 2026)
+technologies (relevant as of 10th march 2026)
+----------------------------------------------
 each of these entries is a language or api i am particularly comfortable in, anything i am not comfortable in but wish to let you know will have additional information specified
 - graphics apis
   - opengl 3+ 
@@ -22,3 +26,4 @@ each of these entries is a language or api i am particularly comfortable in, any
   - lisp (scheme and clojure)
   - python (basic scripting, nothing fancy)
   - lua
+```

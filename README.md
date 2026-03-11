@@ -16,7 +16,6 @@ in but wish to let you know will have additional information specified
   - direct-x 11 
   - direct-x 12 (not super confident but managed to make a working raytracer with dxr)
   - vulkan (working towards learning, but not confident)
-  - 
 - languages
   - c 
   - c++

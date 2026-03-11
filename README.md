@@ -8,7 +8,8 @@ im a graphics programmer, technical artist and game dev studying at the universi
 
 technologies (relevant as of 10th march 2026)
 ----------------------------------------------
-each of these entries is a language or api i am particularly comfortable in, anything i am not comfortable in but wish to let you know will have additional information specified
+each of these entries is a language or api i am particularly comfortable in, anything i am not comfortable
+in but wish to let you know will have additional information specified
 - graphics apis
   - opengl 3+ 
   - opengl 1+  

@@ -4,7 +4,7 @@ hi im louise!
 
 about me:
 ----------
-im a graphics programmer, technical artist and game dev studying at the university of staffordshire.
+im a graphics programmer, technical artist and game dev studying at the university of leeds (formerly staffordshire).
 
 technologies (relevant as of 10th march 2026)
 ----------------------------------------------
@@ -24,6 +24,6 @@ in but wish to let you know will have additional information specified
   - hlsl
   - slang (using for future personal graphics projects, but the hlsl part i am comfortable with)
   - lisp (scheme and clojure)
-  - python (basic scripting, nothing fancy)
+  - python 
   - lua
 ```
